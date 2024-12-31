@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alhassankky
-- 👀 I’m interested in ...
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://wa.me/+256700152064
